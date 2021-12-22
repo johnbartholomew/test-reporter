@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.0-jpab1
+
+- [Report jest-junit testsuite errors as failures](https://github.com/johnbartholomew/test-reporter/commit/fe8fe90f0e84921bdae6855457752c86b7fadceb)
+
 ## v1.5.0
 - [Add option to convert backslashes in path pattern to forward slashes](https://github.com/dorny/test-reporter/pull/128)
 - [Add option to generate only the summary from processed test results files](https://github.com/dorny/test-reporter/pull/123)
